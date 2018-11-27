@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "questions": [
+    {
+        "Id": "a090b00000TrwmuAAB",
+        "Body1__c": "6",
+        "Body2__c": "5",
+        "Category__c": "Kids"
+    },
+    {
+        "Id": "a090b00000TrwmtAAB",
+        "Body1__c": "4",
+        "Body2__c": "3",
+        "Category__c": "Kids"
+    },
+    {
+        "Id": "a090b00000TrwmeAAB",
+        "Body1__c": "2",
+        "Body2__c": "1",
+        "Category__c": "Kids"
+    }
+  ]
 }
